@@ -6,3 +6,6 @@ https://github.com/Teddy0315/Master_Course/blob/master/Mission/Mission_Submissio
 
 ## XRF_PCA
 https://github.com/Teddy0315/Master_Course/blob/master/XRF/XRF_PCA_Biplot_Eval.ipynb
+
+## Nitrate_PCA
+https://github.com/Teddy0315/Master_Course/blob/master/Nitrate/Nitreate_PCA.ipynb
